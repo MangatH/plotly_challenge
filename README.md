@@ -14,7 +14,7 @@
 
 ## Results:
 ### Bar Chart
-A bar-chart was created displaying top 10 bacterial species in volunteers navel.
+A bar-chart was created displaying top 10 bacterial species in volunteers belly button.
 
 <img width="617" alt="Screen Shot 2022-11-22 at 9 09 48 PM" src="https://user-images.githubusercontent.com/111387025/203356933-21de2443-c0f3-43b0-a94d-90a228001bf7.png">
 
@@ -29,8 +29,8 @@ A gauge chart displaying weekly washing frequency of belly buttons.
 <img width="645" alt="Screen Shot 2022-11-22 at 9 15 10 PM" src="https://user-images.githubusercontent.com/111387025/203358230-42c94004-ca7d-4db5-ad4e-dd5491998a3e.png">
 
 ### Customized the dashboard
-* When the dashboard is first opened in a browser, ID 940’s data should be displayed in the dashboard, and the three charts should be working according to their requirements.
-* Addeed an image to the jumbotron.
+* When the dashboard is first opened in a browser, ID 940’s data is displayed in the dashboard, and the three charts are working according to their requirements.
+* Added an image to the jumbotron.
 * Use a custom font style for heading and paragraph of the webpage.
 * Added more information about the project as a paragraph on the page.
 * Added a navigation bar at the top left corner that allows to reset the dashboard to default at a click.
